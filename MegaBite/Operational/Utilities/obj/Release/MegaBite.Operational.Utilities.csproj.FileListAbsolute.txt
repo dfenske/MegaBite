@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Utilities\bin\Release\MegaBite.Operational.Utilities.dll
+C:\MegaBite\MegaBite\Operational\Utilities\bin\Release\MegaBite.Operational.Utilities.pdb
+C:\MegaBite\MegaBite\Operational\Utilities\obj\Release\MegaBite.Operational.Utilities.dll
+C:\MegaBite\MegaBite\Operational\Utilities\obj\Release\MegaBite.Operational.Utilities.pdb

@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Caching\bin\Release\MegaBite.Operational.Caching.dll
+C:\MegaBite\MegaBite\Operational\Caching\bin\Release\MegaBite.Operational.Caching.pdb
+C:\MegaBite\MegaBite\Operational\Caching\obj\Release\MegaBite.Operational.Caching.dll
+C:\MegaBite\MegaBite\Operational\Caching\obj\Release\MegaBite.Operational.Caching.pdb

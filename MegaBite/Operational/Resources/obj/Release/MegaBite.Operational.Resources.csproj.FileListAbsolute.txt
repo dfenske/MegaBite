@@ -1,0 +1,8 @@
+C:\MegaBite\MegaBite\Operational\Resources\bin\Release\MegaBite.Operational.Resources.dll
+C:\MegaBite\MegaBite\Operational\Resources\bin\Release\MegaBite.Operational.Resources.pdb
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.ErrorMessages.resources
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.TextResources.resources
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.csproj.GenerateResource.Cache
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.dll
+C:\MegaBite\MegaBite\Operational\Resources\obj\Release\MegaBite.Operational.Resources.pdb

@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Validation\bin\Release\MegaBite.Operational.Validation.dll
+C:\MegaBite\MegaBite\Operational\Validation\bin\Release\MegaBite.Operational.Validation.pdb
+C:\MegaBite\MegaBite\Operational\Validation\obj\Release\MegaBite.Operational.Validation.dll
+C:\MegaBite\MegaBite\Operational\Validation\obj\Release\MegaBite.Operational.Validation.pdb

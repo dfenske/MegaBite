@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Security\bin\Release\MegaBite.Operational.Security.dll
+C:\MegaBite\MegaBite\Operational\Security\bin\Release\MegaBite.Operational.Security.pdb
+C:\MegaBite\MegaBite\Operational\Security\obj\Release\MegaBite.Operational.Security.dll
+C:\MegaBite\MegaBite\Operational\Security\obj\Release\MegaBite.Operational.Security.pdb

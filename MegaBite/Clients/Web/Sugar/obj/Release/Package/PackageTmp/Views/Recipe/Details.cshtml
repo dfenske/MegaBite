@@ -1,0 +1,80 @@
+﻿@using MegaBite.Domain.Model
+@model MegaBite.Domain.Model.Recipe
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<h2>@Model.Name</h2>
+
+<div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+    <hr />
+    @foreach (Uri image in Model.Images)
+    {
+        <img src=@image.ToString() class="img-thumbnail medium center-block" />
+    }
+    <p><span class="text-primary">Serves @Html.DisplayFor(model => model.Serves) </span>| <span class="text-info">Takes @Html.DisplayFor(model => model.TimeToMakeInMinutes) to cook. </span></p>
+    <p><em>@Html.DisplayFor(model => model.Description)</em></p>
+    <p class="strong">@Html.DisplayNameFor(model => model.Ingredients)</p>
+    <p>@Html.DisplayFor(model => model.Ingredients)</p>
+    <p class="strong">@Html.DisplayNameFor(model => model.Steps)</p>
+    <p>@Html.DisplayFor(model => model.Steps)</p>
+    @if (Model.Notes != null)
+    {
+        if (Model.Notes.Any())
+        {
+            <p><strong>@Html.DisplayNameFor(model => model.Notes)</strong></p>
+            <ul>
+                @foreach (string note in Model.Notes)
+                    {
+                    <li>@note</li>
+                }
+            </ul>
+        }
+    }
+    <br />
+    <p><strong>@Html.DisplayNameFor(model => model.Tags) </strong>: @Html.DisplayFor(model => model.Tags)</p>
+    @if (Model.AverageRating != null)
+            {
+        <p><strong>@Html.DisplayNameFor(model => model.AverageRating) </strong>: @Html.DisplayFor(model => model.AverageRating)</p>
+    }
+   
+    <p>Created on @Html.DisplayFor(model => model.DateCreated) by <span class="text-success">@Html.DisplayFor(model => model.Author)</span></p>
+
+    <hr />
+    @if (Model.Comments.Any())
+            {
+        <h2>Comments - <span class="text-muted">Average Rating of @Html.DisplayFor(model => model.AverageRating)</span></h2>
+                <div class="indent">
+                    @foreach (Comment c in Model.Comments)
+                    {
+                        <h4><strong>@Html.DisplayFor(model => c.Author)</strong>, on @Html.DisplayFor(model => c.DateCreated):</h4>
+                <!--Display number of full stars according to rating, and (5-rating) number of empty stars-->
+                        {
+                            int rating = (int)c.Rating;
+                            for (int i = 0; i < rating; i++)
+                            {
+                                <span class="glyphicon glyphicon-star yellow"></span>
+                            }
+                            for (int j = rating; j < 5; j++)
+                            {
+                                <span class="glyphicon glyphicon-star-empty yellow"></span>
+                            }
+                        }
+                        <br />
+                        <span class="glyphicon glyphicon-comment light-blue"></span> @c.CommentText
+                    }
+                </div>
+    } else
+    {
+        <h2>Comments</h2>
+        <div class="indent">
+            <h4>No comments yet.</h4>
+        </div>
+    }
+</div>

@@ -1,0 +1,9 @@
+C:\MegaBite\MegaBite\Operational\Logging\bin\Debug\MegaBite.Operational.Logging.dll
+C:\MegaBite\MegaBite\Operational\Logging\bin\Debug\MegaBite.Operational.Logging.pdb
+C:\MegaBite\MegaBite\Operational\Logging\obj\Debug\MegaBite.Operational.Logging.dll
+C:\MegaBite\MegaBite\Operational\Logging\obj\Debug\MegaBite.Operational.Logging.pdb
+C:\Code\MegaBite\MegaBite\Operational\Logging\bin\Debug\MegaBite.Operational.Logging.dll
+C:\Code\MegaBite\MegaBite\Operational\Logging\bin\Debug\MegaBite.Operational.Logging.pdb
+C:\Code\MegaBite\MegaBite\Operational\Logging\obj\Debug\MegaBite.Operational.Logging.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Logging\obj\Debug\MegaBite.Operational.Logging.dll
+C:\Code\MegaBite\MegaBite\Operational\Logging\obj\Debug\MegaBite.Operational.Logging.pdb

@@ -1,0 +1,9 @@
+C:\MegaBite\MegaBite\Operational\Localization\bin\Debug\MegaBite.Operational.Localization.dll
+C:\MegaBite\MegaBite\Operational\Localization\bin\Debug\MegaBite.Operational.Localization.pdb
+C:\MegaBite\MegaBite\Operational\Localization\obj\Debug\MegaBite.Operational.Localization.dll
+C:\MegaBite\MegaBite\Operational\Localization\obj\Debug\MegaBite.Operational.Localization.pdb
+C:\Code\MegaBite\MegaBite\Operational\Localization\bin\Debug\MegaBite.Operational.Localization.dll
+C:\Code\MegaBite\MegaBite\Operational\Localization\bin\Debug\MegaBite.Operational.Localization.pdb
+C:\Code\MegaBite\MegaBite\Operational\Localization\obj\Debug\MegaBite.Operational.Localization.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Localization\obj\Debug\MegaBite.Operational.Localization.dll
+C:\Code\MegaBite\MegaBite\Operational\Localization\obj\Debug\MegaBite.Operational.Localization.pdb

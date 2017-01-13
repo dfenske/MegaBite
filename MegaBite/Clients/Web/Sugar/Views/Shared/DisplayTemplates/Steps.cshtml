@@ -1,0 +1,11 @@
+﻿@using MegaBite.Domain.Model
+@model List<Step>
+
+@{ 
+    int count = 1;
+    foreach(Step s in Model)
+    {
+        <p>@count. @s.Directions</p>
+        count++;
+    }
+}

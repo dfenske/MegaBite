@@ -1,0 +1,11 @@
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Domain.Contracts.dll
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Domain.Contracts.pdb
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Domain.Model.dll
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Operational.Error.dll
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Operational.Resources.dll
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Operational.Error.pdb
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Operational.Resources.pdb
+C:\MegaBite\MegaBite\Domain\Contracts\bin\Release\MegaBite.Domain.Model.pdb
+C:\MegaBite\MegaBite\Domain\Contracts\obj\Release\MegaBite.Domain.Contracts.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Domain\Contracts\obj\Release\MegaBite.Domain.Contracts.dll
+C:\MegaBite\MegaBite\Domain\Contracts\obj\Release\MegaBite.Domain.Contracts.pdb

@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Localization\bin\Release\MegaBite.Operational.Localization.dll
+C:\MegaBite\MegaBite\Operational\Localization\bin\Release\MegaBite.Operational.Localization.pdb
+C:\MegaBite\MegaBite\Operational\Localization\obj\Release\MegaBite.Operational.Localization.dll
+C:\MegaBite\MegaBite\Operational\Localization\obj\Release\MegaBite.Operational.Localization.pdb

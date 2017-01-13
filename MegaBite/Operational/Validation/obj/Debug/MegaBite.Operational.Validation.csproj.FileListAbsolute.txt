@@ -1,0 +1,9 @@
+C:\MegaBite\MegaBite\Operational\Validation\bin\Debug\MegaBite.Operational.Validation.dll
+C:\MegaBite\MegaBite\Operational\Validation\bin\Debug\MegaBite.Operational.Validation.pdb
+C:\MegaBite\MegaBite\Operational\Validation\obj\Debug\MegaBite.Operational.Validation.dll
+C:\MegaBite\MegaBite\Operational\Validation\obj\Debug\MegaBite.Operational.Validation.pdb
+C:\Code\MegaBite\MegaBite\Operational\Validation\bin\Debug\MegaBite.Operational.Validation.dll
+C:\Code\MegaBite\MegaBite\Operational\Validation\bin\Debug\MegaBite.Operational.Validation.pdb
+C:\Code\MegaBite\MegaBite\Operational\Validation\obj\Debug\MegaBite.Operational.Validation.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Validation\obj\Debug\MegaBite.Operational.Validation.dll
+C:\Code\MegaBite\MegaBite\Operational\Validation\obj\Debug\MegaBite.Operational.Validation.pdb

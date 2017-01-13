@@ -1,0 +1,5 @@
+C:\MegaBite\MegaBite\Operational\Error\bin\Release\MegaBite.Operational.Error.dll
+C:\MegaBite\MegaBite\Operational\Error\bin\Release\MegaBite.Operational.Error.pdb
+C:\MegaBite\MegaBite\Operational\Error\obj\Release\MegaBite.Operational.Error.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Operational\Error\obj\Release\MegaBite.Operational.Error.dll
+C:\MegaBite\MegaBite\Operational\Error\obj\Release\MegaBite.Operational.Error.pdb

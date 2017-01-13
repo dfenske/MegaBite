@@ -1,0 +1,8 @@
+﻿@using MegaBite.Domain.Model
+@model List<Ingredient>
+<ul>
+    @foreach (Ingredient i in Model)
+    {
+        <li>@i.Name</li>
+    }
+</ul>

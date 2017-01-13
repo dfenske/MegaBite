@@ -1,0 +1,14 @@
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\MegaBite.Operational.DependInj.dll
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\MegaBite.Operational.DependInj.pdb
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.dll
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.xml
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\MegaBite\MegaBite\Operational\DependInj\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\MegaBite\MegaBite\Operational\DependInj\obj\Release\MegaBite.Operational.DependInj.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Operational\DependInj\obj\Release\MegaBite.Operational.DependInj.dll
+C:\MegaBite\MegaBite\Operational\DependInj\obj\Release\MegaBite.Operational.DependInj.pdb

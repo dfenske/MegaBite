@@ -1,0 +1,10 @@
+C:\MegaBite\MegaBite\Domain\Model\bin\Debug\MegaBite.Domain.Model.dll
+C:\MegaBite\MegaBite\Domain\Model\bin\Debug\MegaBite.Domain.Model.pdb
+C:\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.dll
+C:\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.pdb
+C:\Code\MegaBite\MegaBite\Domain\Model\bin\Debug\MegaBite.Domain.Model.dll
+C:\Code\MegaBite\MegaBite\Domain\Model\bin\Debug\MegaBite.Domain.Model.pdb
+C:\Code\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.dll
+C:\Code\MegaBite\MegaBite\Domain\Model\obj\Debug\MegaBite.Domain.Model.pdb

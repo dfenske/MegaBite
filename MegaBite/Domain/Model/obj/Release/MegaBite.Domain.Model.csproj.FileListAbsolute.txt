@@ -1,0 +1,5 @@
+C:\MegaBite\MegaBite\Domain\Model\bin\Release\MegaBite.Domain.Model.dll
+C:\MegaBite\MegaBite\Domain\Model\bin\Release\MegaBite.Domain.Model.pdb
+C:\MegaBite\MegaBite\Domain\Model\obj\Release\MegaBite.Domain.Model.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Domain\Model\obj\Release\MegaBite.Domain.Model.dll
+C:\MegaBite\MegaBite\Domain\Model\obj\Release\MegaBite.Domain.Model.pdb

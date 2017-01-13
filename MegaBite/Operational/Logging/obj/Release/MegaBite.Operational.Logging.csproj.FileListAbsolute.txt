@@ -1,0 +1,4 @@
+C:\MegaBite\MegaBite\Operational\Logging\bin\Release\MegaBite.Operational.Logging.dll
+C:\MegaBite\MegaBite\Operational\Logging\bin\Release\MegaBite.Operational.Logging.pdb
+C:\MegaBite\MegaBite\Operational\Logging\obj\Release\MegaBite.Operational.Logging.dll
+C:\MegaBite\MegaBite\Operational\Logging\obj\Release\MegaBite.Operational.Logging.pdb

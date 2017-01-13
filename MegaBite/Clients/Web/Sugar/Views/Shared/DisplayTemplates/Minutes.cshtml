@@ -1,0 +1,9 @@
+﻿@model int
+
+@if (Model > 60)
+{
+    <span>@Math.Round((double)Model/60, 1).ToString() hours</span>
+}
+else {
+    <span>@Model.ToString() minutes</span>
+}

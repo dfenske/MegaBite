@@ -1,0 +1,10 @@
+C:\MegaBite\MegaBite\Operational\Error\bin\Debug\MegaBite.Operational.Error.dll
+C:\MegaBite\MegaBite\Operational\Error\bin\Debug\MegaBite.Operational.Error.pdb
+C:\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.dll
+C:\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.pdb
+C:\Code\MegaBite\MegaBite\Operational\Error\bin\Debug\MegaBite.Operational.Error.dll
+C:\Code\MegaBite\MegaBite\Operational\Error\bin\Debug\MegaBite.Operational.Error.pdb
+C:\Code\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.dll
+C:\Code\MegaBite\MegaBite\Operational\Error\obj\Debug\MegaBite.Operational.Error.pdb

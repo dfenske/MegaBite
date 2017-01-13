@@ -1,0 +1,32 @@
+﻿<!-- ko with: home -->
+<div class="homepage jumbotron">
+    <h1>MegaBite</h1>
+    <p>Delicious recipes to cook, share, and save!</p>
+    <p>@Html.ActionLink(HttpUtility.HtmlDecode("Take a look around &raquo;"), "Index", "Recipe", null, new { @class = "btn btn-primary" })</p>
+</div>
+<div class="row">
+
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            Once you are signed in, you can create your own recipes and share them with your fellow cooks.
+        </p>
+       @Html.ActionLink("Create a recipe", "Create", "Recipe", null, new { @class = "btn btn-primary" })
+    </div>
+
+    <div class="col-md-4">
+        <h2>Your account</h2>
+        <p>This section displays your account details and lets you edit your information.</p>
+        <div class="text-info">Coming soon...</div>
+        @Html.ActionLink("Account", "Home", "Account", null, new { @class = "btn btn-success", disabled = "disabled"})
+    </div>
+
+    <div class="col-md-4">
+        <h2>Your Saved Recipes</h2>
+        <p>You can save the recipes you want to remember for later by adding them to your cookbook.</p>
+        <div class="text-info">Coming soon...</div>
+        @Html.ActionLink("My Cookbook", "Index", "Cookbook", null, new { @class = "btn btn-info", disabled= "disabled"})
+    </div>
+</div>
+
+<!-- /ko -->

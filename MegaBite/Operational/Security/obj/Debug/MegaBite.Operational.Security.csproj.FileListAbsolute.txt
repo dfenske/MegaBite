@@ -1,0 +1,9 @@
+C:\MegaBite\MegaBite\Operational\Security\bin\Debug\MegaBite.Operational.Security.dll
+C:\MegaBite\MegaBite\Operational\Security\bin\Debug\MegaBite.Operational.Security.pdb
+C:\MegaBite\MegaBite\Operational\Security\obj\Debug\MegaBite.Operational.Security.dll
+C:\MegaBite\MegaBite\Operational\Security\obj\Debug\MegaBite.Operational.Security.pdb
+C:\Code\MegaBite\MegaBite\Operational\Security\bin\Debug\MegaBite.Operational.Security.dll
+C:\Code\MegaBite\MegaBite\Operational\Security\bin\Debug\MegaBite.Operational.Security.pdb
+C:\Code\MegaBite\MegaBite\Operational\Security\obj\Debug\MegaBite.Operational.Security.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Security\obj\Debug\MegaBite.Operational.Security.dll
+C:\Code\MegaBite\MegaBite\Operational\Security\obj\Debug\MegaBite.Operational.Security.pdb

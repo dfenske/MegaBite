@@ -1,0 +1,26 @@
+﻿/**
+ * 
+ */
+mainModule.factory("mainModule", function () {
+    var self = this;
+
+    // <Fields>
+
+    var _self = {};
+
+    // </Fields>
+
+    // <Methods>
+
+    // </Methods>
+
+    // <Constructor>
+
+    (self.Constructor = function () {
+
+    })();
+
+    // </Constructor>
+
+    return self;
+});

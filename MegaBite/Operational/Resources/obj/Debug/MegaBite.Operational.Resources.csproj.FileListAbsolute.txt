@@ -1,0 +1,16 @@
+C:\MegaBite\MegaBite\Operational\Resources\bin\Debug\MegaBite.Operational.Resources.dll
+C:\MegaBite\MegaBite\Operational\Resources\bin\Debug\MegaBite.Operational.Resources.pdb
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.csprojResolveAssemblyReference.cache
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.ErrorMessages.resources
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.TextResources.resources
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.csproj.GenerateResource.Cache
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.dll
+C:\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.pdb
+C:\Code\MegaBite\MegaBite\Operational\Resources\bin\Debug\MegaBite.Operational.Resources.dll
+C:\Code\MegaBite\MegaBite\Operational\Resources\bin\Debug\MegaBite.Operational.Resources.pdb
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.csprojResolveAssemblyReference.cache
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.ErrorMessages.resources
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.TextResources.resources
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.csproj.GenerateResource.Cache
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.dll
+C:\Code\MegaBite\MegaBite\Operational\Resources\obj\Debug\MegaBite.Operational.Resources.pdb
